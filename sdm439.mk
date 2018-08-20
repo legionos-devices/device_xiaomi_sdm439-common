@@ -240,7 +240,8 @@ PRODUCT_COPY_FILES += \
 
 # Notch
 PRODUCT_PACKAGES += \
-    NotchBarKiller
+    NotchBarKiller \
+    NoCutoutOverlay
 
 # Offline chargering animation
 PRODUCT_PACKAGES += \
