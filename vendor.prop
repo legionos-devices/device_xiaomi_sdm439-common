@@ -212,6 +212,9 @@ vendor.service.qti.ims.enabled=1
 # Sensor
 ro.vendor.sensors.pseudo_gyro=true
 
+# System
+persist.sys.binary_xml=false
+
 # SurfaceFlinger
 debug.sf.early_app_phase_offset_ns=500000
 debug.sf.early_gl_app_phase_offset_ns=15000000
