@@ -10,4 +10,4 @@ allow system_server sysfs_battery_supply:file { getattr open write };
 
 # A12 fix
 allow system_server app_zygote:process { getpgid };
-#allow system_server init:binder { call };
+allow system_server init:binder { call };
