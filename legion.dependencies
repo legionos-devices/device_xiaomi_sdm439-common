@@ -1,6 +1,6 @@
 [
   {
-    "repository": "kernel_olives",
+    "repository": "kernel_xiaomi_sdm439",
     "target_path": "kernel/xiaomi/sdm439"
   }
 ]
